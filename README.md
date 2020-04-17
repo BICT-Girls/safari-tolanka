@@ -1,2 +1,2 @@
-# useraccounts
-User Registration Form with PHP and MySQL Tutorial code
+# useraccounts-Database name
+All the Web pages with .php extensions
